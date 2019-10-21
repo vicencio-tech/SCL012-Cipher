@@ -39,14 +39,29 @@ Algunas ideas de ejemplo:
 
 En este proyecto aprenderás a construir una aplicación web que interactúe con el usuario a través del navegador y la lógica basada en esa interacción. Dicho en palabras sencillas, aprenderás a:
 
-- Pintar elementos de formulario en la pantalla usando **HTML** y **CSS**.
+### UX
+- Entender las **necesidades del usuario** y realizar propuestas para esas necesidades. 
+
+### HTML y CSS
+- Mostrar elementos de formulario en la pantalla.
+
+### DOM
 - Permitir al usuario interactuar (**eventos del DOM**) y hacer algo cuando ocurran dichos eventos (cifrar/descifrar).
+- Actualizar la pantalla con los resultados (**manipular el DOM**).
+
+### JS
 - Manipular _**strings**_ (cadenas de texto).
 - Usar **control de flujo** (bucles, condicionales, ...).
-- Actualizar la pantalla con los resultados (**manipular el DOM**).
 - **Implementar funciones** dada una descripción de su comportamiento.
+
+### TESTING
 - Verificar tu implementación con **pruebas unitarias**.
-- Entender las **necesidades del usuario** y realizar propuestas para esas necesidades. 
+
+### GIT Y GITHUB
+- Comandos de git (add | commit | pull | status | push).
+- Manejo de repositorios de GitHub (clone | fork | gh-pages).Manejo de repositorios de GitHub (clone | fork | gh-pages).
+
+### BUENAS PACTICAS
 - Organizar tu tiempo y priorizar tareas en un entorno de **alta incertidumbre**.
 
 ## Parte Obligatoria
