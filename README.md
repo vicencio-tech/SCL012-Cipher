@@ -64,7 +64,7 @@ En este proyecto aprenderás a construir una aplicación web que interactúe con
 ### BUENAS PACTICAS
 - Organizar tu tiempo y priorizar tareas en un entorno de **alta incertidumbre**.
 
-## Parte Obligatoria
+## Consideraciones.
 
 Usa este alfabeto simple (solamente mayúsculas y sin ñ):
 
