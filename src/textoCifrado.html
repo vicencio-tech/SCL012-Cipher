@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+    <meta charset="utf-8">
+    <title>'Ideas bajo Llave'</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="root">
+      <header class="encabezado">
+      <h1 class="titulo">Tareas Pendientes</h1>
+      </header>
+      <section class="principal">
+        <div class="eleccionOffset"> 
+            <label for="seleccionOffset">Nivel de seguridad</label>
+            <select name="seleccionOffset">
+                <option value="1">offset 1</option>
+                <option value="2">offset 2</option>
+                <option value="3">offset 3</option>
+                <option value="4">offset 4</option>
+                <option value="5">offset 5</option>
+            </select>
+            <br>
+            <br>
+            <textarea rows="20" cols="72" placeholder="Escribe tu mensaje:"></textarea><br>
+            <input type="button" value="CIFRAR">
+            <input type="button" value="BORRAR">
+            <input type="button" value="VOLVER">
+        </div>
+      </section>
+      <footer class="pie">
+        <p>Síguenos en:</p>
+      </footer>
+    </div>
+    <script src="cipher.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>

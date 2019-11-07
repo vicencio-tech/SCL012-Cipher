@@ -1,1 +1,87 @@
 /* Acá va tu código */
+
+body{
+    
+}
+
+p { font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#110133;
+    font-size: 20px;
+    text-align:center;
+}
+.textobotones{
+    color:#110133;
+    font-size: 15px;
+    vertical-align:middle;
+    line-height:normal;
+    text-align:center;
+    margin-top:30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+.encabezado{
+    background-color:#00918e;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+    padding-bottom:30px;
+    }
+    
+.titulo{
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #110133;
+    padding-top: 30px;
+}
+
+img{
+    display:block;
+    width:300px;
+    height:auto;
+    margin:auto;
+    border-radius:40px;
+}
+
+.principal{
+    background-color:#00918e;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+    padding-bottom:30px;
+
+    }
+
+.pie{
+    background-color:#00918e;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+    padding-bottom:15px;
+}
+
+.opciones{
+    margin: auto;
+    background-color:#ec9b3b;
+    width:200px;
+    height:70px;
+    border-style: solid;
+    border-radius:20px;
+   
+}
+
+.eleccionOffset{
+    width: 600px;
+    border-style: solid;
+    margin:auto;
+    color:#003f5c;
+    background-color :#ec9b3b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align:center;
+    padding:30px;
+    border-radius: 20px;
+}
+
+select{
+    width: 300px;
+}
