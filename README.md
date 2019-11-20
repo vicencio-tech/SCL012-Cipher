@@ -92,7 +92,7 @@ un usuario.
 4. Iteración con el usuario
 Realicé la iteración con el mismo usuario al que le apliqué la entrevista.
 
-![Video Iteración]()
+![Video Iteración](https://github.com/vicencio-tech/SCL012-Cipher/blob/master/Img/video-1574285450.mp4)s
 
 5. Observaciones del usuario
 A partir de las observaciones expuestas por el usuario pude rescatar que eventualmente falta una pequeña instrucción de uso en el ingreso de la clave secreta y mejorar la función del botón "borrar". También se pudo observar que es el hecho que toda la funcionalidad esté en un mismo recuadro hace que la función de la aplicación sea más entendible, aun cuando 
