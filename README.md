@@ -79,22 +79,22 @@ Mockup
 
 [Ver prototipo aquí](https://www.figma.com/proto/WX9nhtI8glf2pp5kA3wjAq/Proyectos-bajo-llave?node-id=25%3A0&scaling=scale-down)
 
-2. Testeo de Prototipos
+2. Testeo de Prototipos:
 En esta etapa me reuní con el usuario para iterar sobre el aspecto visual de los prototipos de baja fidelidad. El usuario aprobó la propuesta, mencionó algunas opiniones sobre el cambio del color de fondo y de los elementos y la eliminación de las últimas “pantallas”, me solicitó resumirlas de tal modo que el mensaje cifrado apareciera en el mismo cuadro de texto.
 Finalmente, realicé estas modificaciones en el diseño del prototipo de alta fidelidad, en donde se incluían las interacciones y se lo presenté al usuario, el cual dio su V.B, por lo que continué a la siguiente etapa.
 
-3. Diseño de interfaz
+3. Diseño de interfaz:
 Comencé con el diseño de la interfaz a partir de las sugerencias entregadas por el usuario. Cree una interfaz utilizando una paleta con colores fuertes y llamativos sugeridos por el usuario, de tal forma de crear una experiencia atrayente y 
 fácil de realizar.
 La aplicación web consta de 5 documentos HTML. En la página de inicio se señala una breve descripción del proyecto y los usuarios a los cuales va dirigido el producto. El logo elegido, que es un candado, representa la seguiridad que se quiere entregar al usuario, y además, es la puerta de entrada a la siguiente página. En la segunda página se encuentran 3 botones para seleccionar el contexto de mensaje, en esta parte es posible interactuar mientras se va moviendo el cursor en los botones. Al seleccionar un botón se dirige a la página en donde se realiza la funcionalidad del proyecto. Existe un recuadro central que contiene la elección del número de desplazamiento (clave secreta) a través de un seleccionador con flechas, bien práctico. Luego, se encuentra el área de texto, en donde aparece la instrucción que invita a escribir el mensaje original, y de forma intuitiva el usuario debería dirigirse al botón "cifrar" que está en la parte inferior, junto con otros botones que permiten interactuar en la medida que se desplazan sobre ellos. Esos botones permiten descifrar el mensaje cifrado, eliminar cualquier texto escrito y volver a la página anterior. Dado que, toda la funcionalidad se realiza en un solo cuadro de texto, creo que la aplicación cumple la facilidad de uso que espera
 un usuario.
 
-4. Iteración con el usuario
+4. Iteración con el usuario:
 Realicé la iteración con el mismo usuario al que le apliqué la entrevista.
 
-![Video Iteración](https://github.com/vicencio-tech/SCL012-Cipher/blob/master/Img/video-1574285450.mp4)s
+[Video Iteración](https://github.com/vicencio-tech/SCL012-Cipher/blob/master/Img/video-1574285450.mp4)
 
-5. Observaciones del usuario
+5. Observaciones del usuario:
 A partir de las observaciones expuestas por el usuario pude rescatar que eventualmente falta una pequeña instrucción de uso en el ingreso de la clave secreta y mejorar la función del botón "borrar". También se pudo observar que es el hecho que toda la funcionalidad esté en un mismo recuadro hace que la función de la aplicación sea más entendible, aun cuando 
 no se manejen a cabalidad los conceptos de cirar y descifrar, ya que al presionar los botones que realizan esa acción, el usuario pudo comprender en qué consistía la aplicación y también entendió a grandes rasgos lo que significa cifrar y descifrar.
 
