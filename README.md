@@ -1,3 +1,127 @@
+# Proyecto Cifrado Cesar
+
+# Nombre Producto: “Proyectos Bajo Llave”
+
+## Definición del producto
+
+### Hipótesis:
+La gran mayoría de los negocios emergentes entre dos socios no cuentan con un sistema de envío de mensajes que oculte información confidencial, lo que provoca que sus ideas puedan ser copiadas o sus datos caer en manos de la competencia.
+
+### Escenario:
+El dueño de un negocio de barrio tiene un buen dato de importación desde China a muy bajo costo, y necesita compartir esta información con su socio, el cual vive en otra cuidad. Pero no quiere compartirlo a través de los medios de mensajería tradicionales (WhatsApp, Messenger de Facebook, Mensajería de texto o Correo Electrónico), para evitar que su noticia sea interceptada por otras personas del mismo rubro.
+
+### Investigación
+Busqué un potencial usuario al cual podría serle útil una aplicación web, para aplicarle una entrevista.
+
+- Entrevista personal con el usuario.
+Apliqué una entrevista escrita a un potencial usuario, en la cual le pregunté si tenía conocimientos generales sobre cifrado, si le sería útil una aplicación web que realice esa función y en qué aspecto de su vida podrá utilizarla.
+
+![Entrevista a usuario](Img/Entrevista.png)
+
+A partir de una conversación con el usuario a partir de sus decidí el grupo objetivo del proyecto, perfilé al usuario y definí cómo sería su viaje a través de la aplicación web, considerando lo que el usuario necesita y cómo yo podría cubrir esa necesidad.
+
+### Principales usuarios
+
+Personas de 25 a 60 años, de cualquier sexo. Pueden ser emprendedores, aspirantes a emprendedores o dueños de un negocio,y que sean socios entre sí.
+
+### Objetivos del usuario en relación al producto
+
+1. El usuario satisfacerá su necesidad de comunicarse con su socio en forma fácil, rápida y eficaz.
+2. El usuario podrá enviar mensajes cifrados a su socio en un contexto de inicio o desarrollo de un proyecto laboral.
+3. El usuario podrá utilizar la aplicación web en un ambiente de confidencialidad y seguridad, ya que los mensajes enviados solo podrán ser descifrados por el usuario receptor.
+
+### Nivel de experiencia y de interfaz
+
+Lo primero fue realizar el diagrama de flujo de cómo sería la interacción en la aplicación web, para luego iniciar  el proceso de definir el producto final a nivel de experiencia y de interfaz. Esta etapa incluyó los siguientes pasos:
+
+1. Etapa del prototipado
+
+Con el fin de dar forma y formalizar las ideas, cree diferentes niveles de prototipado, de tal forma de poder visualizar la interfaz, y así después entregarle una propuesta de diseño al usuario:
+
+a) Prototipos de baja fidelidad:
+
+Sketch 
+
+- A mano alzada
+
+![Prototipo baja fidelidad](Img/manoalzada1.jpg)
+
+![Prototipo baja fidelidad](Img/manoalzada2.jpg)
+
+- Invision Studio 
+![Prototipo baja fidelidad](Img/Invision1.png)
+
+![Prototipo baja fidelidad](Img/Invision2.png)
+
+Wireframe 
+
+- Balsamiq
+
+![Prototipo baja fidelidad](Img/Balsamiq1.png)
+
+![Prototipo baja fidelidad](Img/Balsamiq2.png)
+
+![Prototipo baja fidelidad](Img/Balsamiq3.png)
+
+![Prototipo baja fidelidad](Img/Balsamiq4.png)
+
+![Prototipo baja fidelidad](Img/Balsamiq5.png)
+
+![Prototipo baja fidelidad](Img/Balsamiq6.png)
+
+![Prototipo baja fidelidad](Img/Balsamiq7.png)
+
+b) Prototipos de alta fidelidad:
+
+Mockup
+
+
+- Figma
+
+2. Testeo de Prototipos
+En esta etapa me reuní con el usuario para iterar sobre el aspecto visual de los prototipos de baja fidelidad. El usuario aprobó la propuesta, mencionó algunas opiniones sobre el cambio del color de fondo y de los elementos y la eliminación de las últimas “pantallas”, me solicitó resumirlas de tal modo que el mensaje cifrado apareciera en el mismo cuadro de texto.
+Finalmente, realicé estas modificaciones en el diseño del prototipo de alta fidelidad, en donde se incluían las interaaciones y se lo presenté al usuario, el cual dio su V.B, por lo que continue a la siguiente etapa.
+
+3. Diseño de interfaz
+Comencé con el diseño de la interfaz a partir de las sugerencias entregadas por el usuario. 
+
+Cree una interfaz utilizando una paleta con colores llamativos 
+
+
+
+4. Iteración con el usuario
+
+
+
+
+5. Correcciones según opinión del usuario.
+
+
+### Solución del problema
+El producto creado cumple con los requerimientos básicos que el usuario manifestó en la entrevista, otorgando una interfaz fácil de usar sin detalles distractores. Permite el envío
+De mensajes cifrados en forma correcta y segura. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Cifrado César
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.

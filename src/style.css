@@ -1,14 +1,51 @@
-/* Acá va tu código */
-
-body{
-    
-}
 
 p { font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:#110133;
     font-size: 20px;
     text-align:center;
+    padding-top: 15px;
 }
+
+.encabezado{
+    background-color:#00918e;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+    padding-bottom:30px;
+    }
+
+.titulo{
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #110133;
+    padding-top: 30px;
+}
+
+.principal{
+    background-color:#00918e;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+    padding-bottom: 60px;
+    }
+
+.contenedor_logo{
+    border:1px; 
+    width: 300px; 
+    height: 200px; 
+    margin:0px auto;
+}
+
+.logotipo {
+    background-image: url(imagenes/candado.jpeg);
+    background-repeat: no-repeat;
+    width: 293px;
+    height: 242px;
+    background-size: contain;
+    border-radius: 20px;
+    margin:0px auto;
+}
+
 .textobotones{
     color:#110133;
     font-size: 15px;
@@ -17,39 +54,25 @@ p { font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align:center;
     margin-top:30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-   
-}
-.encabezado{
-    background-color:#00918e;
-    width: 90%;
-    max-width: 1000px;
-    margin:auto;
-    padding-bottom:30px;
     }
-    
-.titulo{
-    text-align:center;
+
+.eleccionOffset{
+    width: 600px;
+    border-style: solid;
+    margin:auto;
+    color:#003f5c;
+    background-color :#ec9b3b;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #110133;
-    padding-top: 30px;
-}
-
-img{
-    display:block;
-    width:300px;
-    height:auto;
-    margin:auto;
-    border-radius:40px;
-}
-
-.principal{
-    background-color:#00918e;
-    width: 90%;
-    max-width: 1000px;
-    margin:auto;
-    padding-bottom:30px;
-
+    font-size: 20px;
+    text-align:center;
+    padding:30px;
+    border-radius: 20px; 
     }
+
+textarea {
+    resize: none;
+    max-height: 300px;
+}
 
 .pie{
     background-color:#00918e;
@@ -59,6 +82,10 @@ img{
     padding-bottom:15px;
 }
 
+select{
+    width: 300px;
+}
+
 .opciones{
     margin: auto;
     background-color:#ec9b3b;
@@ -66,22 +93,22 @@ img{
     height:70px;
     border-style: solid;
     border-radius:20px;
-   
 }
 
-.eleccionOffset{
-    width: 600px;
-    border-style: solid;
-    margin:auto;
-    color:#003f5c;
-    background-color :#ec9b3b;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.opciones:hover {
+    background-color:#EEE416;
+}
+
+#cuadrodetexto{
     font-size: 15px;
-    text-align:center;
-    padding:30px;
-    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-select{
-    width: 300px;
+.botones:hover {
+    background-color:#EEE416;
+}
+
+
+b{
+    font-weight: bold;
 }
